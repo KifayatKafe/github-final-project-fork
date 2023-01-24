@@ -9,3 +9,4 @@ Output
    simple interest = p*t*r
    ===========
    I have changed this file.
+new file with changes
